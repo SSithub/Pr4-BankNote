@@ -1,2 +1,2 @@
-# HaRBInger | Problem Statement 4 | Accurately identifying banknotes by visually impaired.
-HaRBInger 2024
+## Accurately identifying banknotes by visually impaired.
+HaRBInger 2024 | Problem Statement 4 
