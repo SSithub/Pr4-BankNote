@@ -10,10 +10,14 @@
 
 
 #### <br>SOFTWARE DEMO
-<p><em>An online web-demo link will be shared very shortly...</em></p>
+The following link is the web-app demonstration of the Divyang-Friendly Software
+<p align="center"><em>- web-demo link will be shared very shortly...</em></p>
+
+<br>NOTE:
+- The software demo link will keep on adding [Feature](#feature-updates) & [Security](#risks--challenges) Updates as and when developed according to the committed TIMELINE in the PROPOSAL.
 
 #### <br>FEATURE UPDATES
-<p><em>The feature updates that have been committed to the timeline will be updated here as soon as they are implemented in the DEMO link provided in the above section </em></p>
+The feature updates that have been committed to in the TIMELINE in PROPOSAL will be updated here as soon as they are implemented in the [DEMO](#software-demo) ...
 
 #### <br>RISKS & CHALLENGES
-<p><em>As the solution is being developed, the challenges encountered, risks identified, and steps to their mitigation will be updated here...</em></p>
+As the solution is being developed, the challenges encountered, risks identified, and steps taken for their mitigation will be updated here as soon as they are implemented in the [DEMO](#software-demo) ...
