@@ -1,7 +1,6 @@
-## Accurately identifying banknotes by visually impaired...
-Divya-Eye | Divyang-Friendly Bank-Note Identifier - versatile empowering voice-based software + handy hardware
-HaRBInger 2024 | Problem Statement 4 
+<h1 align="center">Divya-Eye</h1>
+<h3 align="center">Divyang-Friendly Bank-Note Identifier- versatile empowering voice-based software + handy hardware</h3>
+<p align="center">HaRBInger 2024 | Problem Statement 4 | Accurately identifying banknotes by visually impaired</p>
 
-#### This page will be displaying the DEMO of updates on the solution development as committed in the Proposal Timeline.
-
-<p align="center"><em>An online web-demo link will be shared very shortly...</em></p>
+<br><br><h4>SOFTWARE DEMO</h4>
+<p><em>An online web-demo link will be shared very shortly...</em></p>
