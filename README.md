@@ -1,4 +1,4 @@
-<h1 align="center">Divya-Eye</h1>
+<h1 align="center"></h1>
 <h3 align="center">Divyang-Friendly Bank-Note Identifier- </h3> 
 <h4 align="center">versatile empowering voice-based software + handy hardware</h4>
 <p align="center">HaRBInger 2024 | Problem Statement 4 | Accurately identifying banknotes by visually impaired</p>
