@@ -11,7 +11,7 @@
 
 #### <br>SOFTWARE DEMO
 The following link is the web-app demonstration of the Divyang-Friendly Software
-<p align="center"><em>- web-demo link will be shared very shortly...</em></p>
+<p align="center"><em>- web-demo link will be shared very shortly...by October 1, 2024 </em></p>
 
 <br>NOTE:
 - The software demo link will keep on adding [Feature](#feature-updates) & [Security](#risks--challenges) Updates as and when developed according to the committed TIMELINE in the PROPOSAL.
