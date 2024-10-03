@@ -3,6 +3,8 @@
 <h4 align="center">versatile empowering voice-based software + handy hardware</h4>
 <p align="center">HaRBInger 2024 | Problem Statement 4 | Accurately identifying banknotes by visually impaired</p>
 
+<h1 align="center"></h1>
+
 #### Contents
 - [Software Demo](#software-demo)
 - [Video Demo](#video-demo) 
