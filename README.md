@@ -9,6 +9,7 @@
 - [Feature Updates](#feature-updates)
 - [Risks & Challenges](#risks--challenges)
 
+<h1 align="center"></h1>
 
 #### <br>SOFTWARE DEMO
 The following link is the web-app demonstration of the Divyang-Friendly Software
@@ -23,3 +24,6 @@ The feature updates that have been committed to in the TIMELINE in PROPOSAL will
 
 #### <br>RISKS & CHALLENGES
 As the solution is being developed, the challenges encountered, risks identified, and steps taken for their mitigation will be shared confidentially (to ensure security isnt compromised) to the stakeholders as they are implemented in the [DEMO](#software-demo) ...
+
+<h1 align="center"></h1>
+
