@@ -7,7 +7,8 @@
 
 #### Contents
 - [Software Demo](#software-demo)
-- [Video Demo](#video-demo) 
+- [Demo Documentation](#demo-documentation) 
+- [Video Demo](#video-demo)
 - [Feature Updates](#feature-updates)
 - [Risks & Challenges](#risks--challenges)
 
@@ -15,13 +16,19 @@
 
 #### <br>SOFTWARE DEMO
 The following link is the web-app demonstration of the Divyang-Friendly Software
-<p align="center"><em>- web-demo link with feature, security updates will be shared by ...  Oct 05, 2024 . </em></p>
+<p align="center"><em>web-demo link with feature, security updates will be shared by ...  Oct 07, 2024 </em></p>
+
+<h2 align="center"></h2>
+
+#### <br>DEMO DOCUMENTATION
+...to demonstrate the Divyang-Friendly Software web-app
+<p align="center"><em>document demonstrating the working of the web-app will be shared by ...  Oct 12, 2024 . </em></p>
 
 <h2 align="center"></h2>
 
 #### <br>VIDEO DEMO
 The following link is the video demonstration of the Divyang-Friendly Software web-app
-<p align="center"><em>- video-demo link/ embedding of the web-app will be shared by ...  Oct 07, 2024 . </em></p>
+<p align="center"><em>video-demo link/ embedding demonstrating the working of the web-app will be shared by ...  Oct 12, 2024 . </em></p>
 
 <h2 align="center"></h2>
 
